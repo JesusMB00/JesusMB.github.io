@@ -1,0 +1,313 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	overflow-x:hidden;
+	}
+body {
+	background-image:url(../Imagenes/fondo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:center;
+	width:100%;
+	height:auto;
+	margin: 0;}
+	
+p{
+	text-align:justify;
+	width: 98%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #000;
+	margin-bottom:5%;}	
+
+h3{
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	color:#000;}
+	
+h4 a{
+	text-decoration:none;
+	color:#08a02a;}
+	
+/**************PAG1********************/
+#inicial_titulo{
+	width:100%;
+	margin-bottom: 15%;
+	text-align:center;}
+	
+#inicial_titulo h1{
+	font-family: 'Oswald', sans-serif;
+	font-size: 112px;
+	color:#ffff01;
+	text-shadow:0.1em 0.1em 0.2em black;
+	text-transform:uppercase;
+	margin-bottom:0;}
+
+#inicial_titulo h2{
+	font-family: 'Oswald', sans-serif;
+	font-size: 72px;
+	color:#ffff01;
+	text-shadow:0.1em 0.1em 0.2em black;
+	text-transform:uppercase;
+	margin-top:0;}
+	
+/**************PAG2********************/
+#pagina2{
+	background-image:url(../Imagenes/pag2/fondo_transparente.png);
+	width: 97%;
+    padding-left: 15px;
+	padding-bottom: 40px;
+	margin-left: 10px;}
+
+#pagina2 h3{
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	color:#000;}
+
+#pagina2 h4{
+	line-height:0;
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	color:#08a02a;}
+
+#pagina2 p{
+	text-align:justify;
+	width: 98%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #000;
+	margin-bottom:5%;
+	}
+
+#imagenes_cuadros{
+	margin: 0 auto;
+	text-align: center;
+    width: 90%;
+    background-color: #F00;
+    padding: 20px 0px;}
+
+#cuadro1{
+margin-right: 20px;
+    width: 30%;
+	display:inline-block;
+	vertical-align:top;}
+
+#cuadro2{
+	width:30%;
+	display:inline-block;
+	vertical-align:top;}
+
+#imagenes_solas{
+	text-align:center;}
+	
+/**************PAG3********************/
+#pag2{
+	text-align:center;
+	background-image:url(../Imagenes/pag2/fondo_transparente.png);
+	width: 100%;
+    padding-left: 15px;
+	padding-bottom: 40px;}
+#pag3{
+	text-align:center;
+	background-color:#FFF;
+	width:96%;
+	padding: 8px 29px;}
+
+
+#pag3 h3{
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	color:#000;}
+
+#icon_web{
+	width:99%;
+	display:inline-block;
+	vertical-align:top;}
+
+#ico1{
+	margin-left:12%;
+	text-align:center;
+	width:30%;
+	display:inline-block;
+	vertical-align:top;}
+
+#ico1 p{
+	
+	text-align:justify;
+	 font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #000;}
+
+#ico2{
+	
+	text-align:center;
+	width:30%;
+	display:inline-block;
+	vertical-align:top;}
+
+#ico2 p{
+	text-align:justify;
+	 font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #000;}
+
+#icon_web2{
+	text-align:center;
+	width:99%;
+	display:inline-block;
+	vertical-align:top;}
+	
+#contenido_pag3 p{
+	text-align:justify;
+	width: 98%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #000;
+	margin-bottom:5%;
+	}
+	
+/****************PAG 4***************/
+#pag1{
+	text-align:center;
+	background-color:#FFF;
+	width:96%;
+	padding: 8px 29px;
+	}
+
+#pag4{
+	text-align:center;
+	background-image:url(../Imagenes/pag2/fondo_transparente.png);
+	width: 100%;
+    padding-left: 15px;
+	padding-bottom: 40px;
+}
+
+#pag4 h3{
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	margin-top:0;
+	color:#000;}
+	
+#pag2 h3{
+	margin-top:0;}
+	
+#pag6 h3{
+	margin-top:0;}
+
+#pag8 h3{
+	margin-top:0;}
+
+#pag4 p{
+	width:98%;
+	margin-bottom:20px;
+	text-align:justify;
+	 font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #000;}
+	
+#imagenes_solas2{
+	display:inline-block;
+	vertical-align:top;
+	width:40%;}
+	
+#imagenes_solas3{
+	display:inline-block;
+	vertical-align:top;
+	width:23%;}
+/***************FOOTER********************/
+
+#footer{
+	padding: 22px 0;
+	width:100%;
+	background-color:#F00}
+
+#footer p{
+	color:#FFF;
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+ }
+ 
+ 
+ #pag5{
+	text-align:center;
+	background-color:#FFF;
+	width:96%;
+	padding: 8px 29px;}
+
+ #pag6{
+	 text-align:center;
+	background-image:url(../Imagenes/pag2/fondo_transparente.png);
+	width: 100%;
+    padding-left: 15px;
+	padding-bottom: 40px;}
+
+ #pag7{
+	text-align:center;
+	background-color:#FFF;
+	width:96%;
+	padding: 8px 29px;}
+ #pag8{
+	background-image:url(../Imagenes/pag2/fondo_transparente.png);
+	width: 100%;
+    padding-left: 15px;
+	padding-bottom: 40px;}
+
+/***************GALERIA********************/
+
+
+.galeria .contenedor{
+	display: flex;
+	flex-direction: wrap;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	
+	}
+	
+.foto{
+	width:28%;
+	margin-bottom:30px;
+	outline:5px solid rgba (0,0,0,0);
+	-webkit-box-shadow:4px 4px 6px rgba(0,0,0,.8);
+	-moz-box-shadow: 4px 4px 6px rgba(0,0,0,.8);
+	-ms-box-shadow: 4px 4px 6px rgba(0,0,0,.8);
+	-o-box-shadow: 4px 4px 6px rgba(0,0,0,.8);
+	box-shadow: 4px 4px 6px rgba(0,0,0,.8);
+	-webkit-transition: all .3 ease;
+	-o-transition: all .3 ease;
+	transition: all .3 ease;
+	border-right: 10px;
+	}
+	
+
+.foto img{
+	width:100%;
+	vertical-align:top;
+	cursor:pointer;}
+
+.foto:hover{
+	outline:5px solid #690;}
+	
+	
+.fotoligth{
+	width:28%;
+	margin-bottom:30px;
+	outline:5px solid rgba (0,0,0,0);
+	}
+	
+/************Resposive******************/
+
+@media screen and (max-width : 1024px){
+	
+	#pag1{
+		background-color: #F9F9F9;
+		}
+		
+	#pag3{
+		background-color:#F9F9F9;
+		}
